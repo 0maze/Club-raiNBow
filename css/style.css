@@ -1,0 +1,222 @@
+
+
+.para2{
+  margin-top: 70px;
+  text-align: left;
+  margin-left: 20px;
+}
+h1,h2,h3,h5{
+
+  font-family: "Montserrat-Bold"; 
+  text-align: center;
+}
+
+/* END ABOUT SECTION*/
+
+/* GALLERY SECTION*/
+
+  gallery-title,activity-title{
+    font-family: "Monserrat";
+   
+    
+  }
+
+#gallery{
+  background-color: #ef8172;
+}
+/*  END*/
+.container-fluid{
+  padding: 7% 15%;
+}
+
+body{
+  font-family: "Montserrat",sans-serif;
+  text-align: center;
+}
+
+.colored-section{
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.white-section{
+  background-color: #fff;
+}
+
+.big-heading{
+
+  font-family: "Montserrat-Black"; 
+  font-size: 4rem;
+  line-height: 1.5;
+
+}
+
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+}
+
+
+#title .container-fluid{
+  padding: 3% 15% 7%;
+}
+
+/*Navbar*/
+#lol-do-lol{
+  font-size: xx-large;
+ color: 
+  font-family: "Montserrat-Black"; 
+  
+}
+.navbar {
+  padding: 0 0 4.5rem;
+  text-align: left;
+  margin-left: auto;
+}
+
+
+.navbar-brand {
+  font-family: "Montserrat-Black"; 
+  font-size: 4rem;
+  line-height: 1.5;
+
+  lighting-color: #ef8172;
+
+
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light"; 
+}
+
+
+
+.header_area .main-menu .navbar-nav a:hover{
+  background: whitesmoke;
+  background-clip: padding-box;
+  color: black;
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.row{
+  padding-top: 50px;
+}
+/*FOOTER SECTION  */
+
+
+
+.footer-icon{
+
+  margin: 25px 15px;
+  size: 25px;
+}
+
+.footer-area .koila .social a:hover{
+  background: whitesmoke;
+  background-clip: padding-box;
+  color: black;
+
+ -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+
+.subscribe-us-area{
+  padding-top: 20px;
+  padding-bottom: 10px ;
+  text-align: center;
+}
+.f{
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+.koila{
+  text-align: right;
+}
+/* activity section*/
+
+#activity{
+  background-color: #FDD2BF ;
+}
+
+.coloum1{
+  position: relative;
+  left: 40px;
+}
+.cricket-title{
+  margin-top: 10px;
+}
+.column-video{
+  margin-top: 20px;
+}
+
+/*AbOUT section*/
+
+#rcorners {
+  border-radius: 25px;
+  border: 2px solid #ff4c68;
+  padding: 40px; 
+    
+}
+
+.container-fluid1{
+  padding: 5% 10%;
+}
+
+
+
+.ac1{
+  padding-top: 10px;
+}
+.column-video{
+  padding-top: 0px;
+}
+
+/*contact*/
+#contract-guru{
+  background-color: #ff4c68;
+}
+.footer-section {
+  padding-top: 200px;
+}
+
+.section-on-footer {
+  margin-bottom: -250px;
+}
+
+.shadow-down {
+  position: relative;
+}
+
+.shadow-down::before {
+  position: absolute;
+  content: "";
+  box-shadow: 0px 0px 80.75px 14.25px rgba(224, 241, 255, 0.34);
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+p{
+  line-height: 2;
+}
+
+.gg-lol{
+  padding-top: 10px;
+}
+
+.vision-title{
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
